@@ -3,11 +3,11 @@
 
 # Linux快速安装
 
-`curl -L https://raw.fastgit.org/snail007/dlv/main/go1.13-1.15/linux/dlv;chmod +x dlv;mv dlv /usr/bin/`
+`curl -L https://raw.fastgit.org/snail007/dlv/main/go1.13-1.15/linux/dlv -o dlv;chmod +x dlv;mv dlv /usr/bin/`
 
 # Macos快速安装
 
-`curl -L https://raw.fastgit.org/snail007/dlv/main/go1.13-1.15/linux/dlv;chmod +x dlv;mv dlv /usr/local/bin/`
+`curl -L https://raw.fastgit.org/snail007/dlv/main/go1.13-1.15/linux/dlv  -o dlv;chmod +x dlv;mv dlv /usr/local/bin/`
 
 # 示例
 
